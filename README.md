@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **new technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/santelizvargas](https://github.com/santelizvargas)
+- 👨‍💻 All of my projects are available at [https://github.com/santelizvargas?tab=repositories](https://github.com/santelizvargas)
 
 - 💬 Ask me about **what you want to know about me**
 
