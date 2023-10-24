@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brandon Santeliz</h1>
-<h3 align="center">A passionate frontend developer from Nicaragua</h3>
+
+![Make your README](https://github.com/santelizvargas/santelizvargas/assets/79380665/94fbd15e-6543-44b7-9c6c-dd6707a71dfb)
+
+<h1 align="center">Confusion is part of Programming</h1>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 - 🌱 I’m currently learning **react**
 
