@@ -10,18 +10,20 @@
        alt="snake" /></a>
 </div>
 
-- 🌱 I’m currently learning **react**
+<p>
+    <img height="250em" src="https://github.com/santelizvargas/santelizvargas/assets/79380665/f9db04bc-ad37-46e5-987d-2f3244e13f58" align="right">
 
-- 🤝 I’m looking for help with **new technologies**
-
-- 👨‍💻 All of my projects are available at [https://github.com/santelizvargas?tab=repositories](https://github.com/santelizvargas)
-
-- 💬 Ask me about **what you want to know about me**
-
-- 📫 How to reach me **ushija6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🌱 I'm currently learning new technologies.
+  
+- 👯 I’m looking to collaborate on different projects.
+  
+- 👨‍💻 Specialist Developer in SwiftUI.
+  
+- 👀 Ask me about the Swift environment and UI/UX design.
+  
+- 📫 You can reach me at ushija6@gmail.com.
+  
+- ⚡ Fun fact - I enjoy drawing while listening to music.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
