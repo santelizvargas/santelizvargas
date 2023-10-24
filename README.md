@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Santeliz</h1>
 
-![Make your README](https://github.com/santelizvargas/santelizvargas/assets/79380665/94fbd15e-6543-44b7-9c6c-dd6707a71dfb)
+![Make your README (2)](https://github.com/santelizvargas/santelizvargas/assets/79380665/caaeb54a-f384-4bc2-9172-2bff9b734d49)
+
 
 <h1 align="center">Confusion is part of Programming</h1>
 
