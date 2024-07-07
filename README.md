@@ -3,14 +3,7 @@
 ![Make your README (2)](https://github.com/santelizvargas/santelizvargas/assets/79380665/caaeb54a-f384-4bc2-9172-2bff9b734d49)
 
 
-<h1 align="center">Confusion is part of Programming</h1>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<h1 align="center">👨🏻‍💻 &nbsp;About Me!</h1>
+<h1 align="center">👨🏻‍💻 Confusion is part of Programming</h1>
 
 <img width="20%" src="https://github.com/santelizvargas/santelizvargas/assets/79380665/f9db04bc-ad37-46e5-987d-2f3244e13f58" align="right">
 
