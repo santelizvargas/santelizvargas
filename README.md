@@ -15,7 +15,7 @@
   
 - 👀 Ask me about the Swift environment and UI/UX design.
   
-- 📫 You can reach me at ushija6@gmail.com.
+- 📫 You can reach me at santelizvargas09@gmail.com.
   
 - ⚡ Fun fact - I enjoy drawing while listening to music.
 
